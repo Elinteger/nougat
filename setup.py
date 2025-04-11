@@ -54,7 +54,7 @@ setup(
         "rapidfuzz",
         "sentencepiece",
         "sconf>=0.2.3",
-        "albumentations>=1.0.0,<=1.4.24",
+        "albumentations==1.0.0",
         "pypdf>=3.1.0",
         "pypdfium2",
     ],
